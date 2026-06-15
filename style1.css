@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+}
+
+.container{
+    text-align:center;
+    margin-top:150px;
+}
+
+.logo{
+    font-size:80px;
+    color:blue;
+}
+
+input{
+    width:500px;
+    padding:12px;
+    border-radius:25px;
+    border:1px solid gray;
+}
+
+.buttons{
+    margin-top:20px;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+    border:none;
+    background:#f2f2f2;
+    cursor:pointer;
+}
